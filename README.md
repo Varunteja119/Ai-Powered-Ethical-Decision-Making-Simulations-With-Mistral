@@ -1,0 +1,2 @@
+# Ai-Powered-Ethical-Decision-Making-Simulations-With-Mistral
+AI-Powered Ethical Decision-Making Simulations with Mistral is a web-based application that leverages Mistral’s generative AI and Streamlit to simulate and analyze real-world ethical dilemmas. This project is designed to make complex moral reasoning accessible to non-experts and can be used in educational, governance, and policy-making contexts.
